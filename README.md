@@ -1,2 +1,4 @@
-# PasswordGeneratorCRU
-A password generator made with Python and GTK4, as a school project. 
+# Password Generator CRU (CLI only)
+A password generator made with Python, as a school project.
+
+This branch will have only CLI for time saving
