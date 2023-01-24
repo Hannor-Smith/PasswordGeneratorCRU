@@ -1,2 +1,2 @@
-# PasswordGeneratorCRU
+# Password Generator CRU
 A password generator made with Python and GTK4, as a school project. 
